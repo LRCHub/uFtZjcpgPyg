@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Sweet Talk",
+  "base_artist": "Saint Motel",
+  "createdAt": "2026-02-13T08:11:38.267550Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet Talk",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/01_Sweet_Talk_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweet Talk, Sweet Talk",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/02_Sweet_Talk,_Sweet_Talk_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweet Talk",
+      "artist": "Sheena Easton",
+      "has_synced": true,
+      "path": "select/03_Sweet_Talk_Sheena_Easton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweet Talk",
+      "artist": "Lee Aaron",
+      "has_synced": false,
+      "path": "select/04_Sweet_Talk_Lee_Aaron.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet Talk",
+      "artist": "Jessie Ware",
+      "has_synced": true,
+      "path": "select/05_Sweet_Talk_Jessie_Ware.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet Talk",
+      "artist": "Jessie Ware",
+      "has_synced": true,
+      "path": "select/06_Sweet_Talk_Jessie_Ware.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweet Talk",
+      "artist": "Saint Motel",
+      "has_synced": true,
+      "path": "select/07_Sweet_Talk_Saint_Motel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweet Talk",
+      "artist": "Spank Rock",
+      "has_synced": false,
+      "path": "select/08_Sweet_Talk_Spank_Rock.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sweet Talk",
+      "artist": "Spiritualized",
+      "has_synced": true,
+      "path": "select/09_Sweet_Talk_Spiritualized.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sweet Talk",
+      "artist": "Uriah Heep",
+      "has_synced": false,
+      "path": "select/10_Sweet_Talk_Uriah_Heep.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet Talk",
+      "artist": "The Killers",
+      "has_synced": true,
+      "path": "select/11_Sweet_Talk_The_Killers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "School For Sweet Talk",
+      "artist": "Norman Greenbaum",
+      "has_synced": true,
+      "path": "select/12_School_For_Sweet_Talk_Norman_Greenbaum.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweet Talk",
+      "artist": "Samantha Jade",
+      "has_synced": true,
+      "path": "select/13_Sweet_Talk_Samantha_Jade.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sweet Talk",
+      "artist": "Samantha Jade",
+      "has_synced": true,
+      "path": "select/14_Sweet_Talk_Samantha_Jade.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sweet Talk",
+      "artist": "D'atra Hicks",
+      "has_synced": false,
+      "path": "select/15_Sweet_Talk_D'atra_Hicks.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Talk",
+      "artist": "Saint Motel",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Talk_Saint_Motel.txt"
+    }
+  ]
+}
