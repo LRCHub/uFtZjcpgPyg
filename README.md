@@ -1,0 +1,60 @@
+# Saint Motel – Sweet Talk
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:23.93] Oh when it's cold
+[00:27.71] I get warm just thinking of you
+[00:32.07] When I'm alone
+[00:35.92] I stare at stars and hope dreams come true
+[00:56.92] 
+[00:40.44] You're probably not aware
+[00:42.33] That I'm even here
+[00:44.88] Well you might not know I exist
+[00:47.05] But I don't even care
+[00:57.55] 
+[00:49.59] Sweet talk
+[00:50.84] Everything you say
+[00:52.79] It sounds like
+[00:53.87] Sweet talk to my ears
+[00:56.98] You could yell
+[00:58.08] "Piss off! Won't you stay away?"
+[01:00.70] It'll still be
+[01:01.93] Sweet talk to my ears
+[01:12.43] 
+[01:05.07] Oh when you laugh
+[01:08.86] I forget that it's about me
+[01:13.06] But it's alright
+[01:16.71] Yeah, 'cause being your punchline
+[01:18.95] Still is something
+[01:27.95] 
+[01:21.32] Yeah well I'm not scared
+[01:23.37] I'm not going nowhere
+[01:25.61] Yeah, you might want me to drop dead
+[01:28.05] But I don't even care
+[01:38.55] 
+[01:30.58] Sweet talk
+[01:31.83] Everything you say
+[01:33.69] It sounds like
+[01:34.95] Sweet talk to my ears
+[01:37.86] You could yell
+[01:38.91] "Piss off! Won't you stay away?"
+[01:41.78] It'll still be
+[01:43.37] Sweet talk to my ears
+[01:53.87] 
+[02:03.39] Ooh, everything you say
+[02:06.61] It sounds like
+[02:07.80] Ooh, to my ears
+[02:11.22] Ooh, "Won't you stay away?"
+[02:14.69] It sounds like
+[02:15.76] Ooh, to my ears
+[02:23.26] 
+[02:44.42] Sweet talk
+[02:45.63] Everything you say
+[02:47.55] It sounds like
+[02:48.60] Sweet talk to my ears
+[02:51.81] You could yell
+[02:52.84] "Piss off! Won't you stay away?"
+[02:55.60] It'll still be
+[02:56.84] Sweet talk to my ears
+```
